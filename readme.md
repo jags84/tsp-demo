@@ -5,7 +5,7 @@ You are a successful salesman working for a big company. You have 32 big account
 
 ## Solution
 1. TSP: Calculating all the paths from the first city
-2. TSP NNA: Using Nearest neighbour algorithm
+2. TSP NNA: Using Nearest neighbor algorithm
 
 ## Input File
 CityName \t Latitude \t Longitude
@@ -20,4 +20,4 @@ Ruby 2.4.0
 
 ## ToDo
 1. Create a Ruby GEM with all the logic
-2.
+2. Use Threads
